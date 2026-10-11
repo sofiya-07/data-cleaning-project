@@ -1,0 +1,7 @@
+{
+  "input_file": "sample_input.csv",
+  "output_file": "cleaned_output.csv",
+  "missing_name": "Unknown",
+  "missing_age": 0,
+  "missing_city": "Unknown"
+}
